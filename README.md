@@ -5,4 +5,5 @@
 3. Run console command `json-server --watch db.json` in de map met het bestand db.json.
 4. In localhost:3000 zijn nu de eindpunten 'machtigingen' en 'personen' aangemaakt.
 5. Start je eigen localhost en open de index.php van deze repository in web.
-6. In public/index.php/ kunnen de waarden `$gebruiker` en `$website` aangepast worden om de output te veranderen
+6. Hierin zul je nu de output krijgen van de ingevulde waarden van de website en de gebruiker.
+7. In public/index.php/ kunnen de waarden `$gebruiker` en `$website` aangepast worden om de output te veranderen.
