@@ -1,0 +1,76 @@
+{
+  "machtigingen": [
+    {
+      "id": 0,
+      "naam": "ING bankzaken regelen",
+      "instantie": "ING",
+      "url": "www.ing.nl",
+      "niveau": 2
+    },
+    {
+      "id": 1,
+      "naam": "Rabobank bankzaken regelen",
+      "instantie": "Rabobank",
+      "url": "www.rabobank.nl",
+      "niveau": 2
+    },
+    {
+      "id": 2,
+      "naam": "Kinderbijslag",
+      "instantie": "SVB",
+      "url": "www.svb.nl",
+      "niveau": 1
+    },
+    {
+      "id": 3,
+      "naam": "Nabestaandenuitkering Anw",
+      "instantie": "SVB",
+      "url": "www.svb.nl",
+      "niveau": 1
+    },
+    {
+      "id": 4,
+      "naam": "Pensionoverzicht",
+      "instantie": "SVB",
+      "url": "www.svb.nl",
+      "niveau": 1
+    },
+    {
+      "id": 5,
+      "naam": "Rabo Internetbankieren",
+      "instantie": "Rabobank",
+      "url": "www.rabobank.nl",
+      "niveau": 2
+    },
+    {
+      "id": 6,
+      "naam": "Rabobank gegevens aanpassen",
+      "instantie": "Rabobank",
+      "url": "www.rabobank.nl",
+      "niveau": 2
+    }
+  ],
+
+  "personen": [
+    {
+      "id": 0,
+      "naam": "Piet van Beek",
+      "machtigingen": [1, 3, 4, 5]
+    },
+    {
+      "id": 1,
+      "naam": "Mark de Groot",
+      "machtigingen": [0, 2, 6]
+    },
+    {
+      "id": 2,
+      "naam": "Rik Terpstra",
+      "machtigingen": [0, 1, 3]
+    },
+    {
+      "id": 3,
+      "naam": "Eva van Hout",
+      "machtigingen": [0, 1, 2, 3, 5, 6]
+    }
+  ]
+}
